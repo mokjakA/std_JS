@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://naver.com" target="_blank"><img src="https://img.shields.io/badge/tistory-3DDC84?style=flat&logo=tistory&logoColor=white"/>
+<a href="https://naver.com" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/>
 
 <!--
 **mokjakA/mokjakA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
