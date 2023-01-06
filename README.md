@@ -2,7 +2,7 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/tistory-ffffff?style=flat&logo=tistory&logoColor=black"/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokjakA&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokjakA&show_icons=true&theme=graywhite)
 
 <!--
 **mokjakA/mokjakA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
