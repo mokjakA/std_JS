@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/tistory-white?style=flat&logo=tistory&logoColor=white"/>
+<img src="https://img.shields.io/badge/tistory-white?style=flat&logo=Tistory&logoColor=black"/>
 <!--
 **mokjakA/mokjakA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
