@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:2F80ED,100:56CCF2&height=220&section=header&text=mokjak's%20Github&fontSize=90&animation=scaleIn" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:2F80ED,100:56CCF2&height=220&section=header&text=mokjak's%20Github&fontSize=90&animation=fadeIn" />
 
 <div>
   <a href="https://itnote-for-me.tistory.com/" target="_blank">
