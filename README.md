@@ -1,5 +1,7 @@
+<div>
 <a href="https://itnote-for-me.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/tistory-white?style=flat&logo=Tistory&logoColor=black"/>
+  </div>
   
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:2F80ED,100:56CCF2&height=220&section=header&text=mokjak's%20Github&fontSize=90&animation=scaleIn" />
   
